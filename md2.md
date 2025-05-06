@@ -11,3 +11,8 @@
 
 ## Note
 You will need to create any and all necessary views, urlpatterns and set any required configurations to make the above hapen.  Please review the code for our last project as this challenge is *open book* just like all previous ones.
+
+## Bonus
+1. Pick a theme for your blog (hobbies, sports, movies)
+2. Use the theme to define a color palette and a style for your blog.
+3. Enhance your blog with CSS and client-side JS as needed.
